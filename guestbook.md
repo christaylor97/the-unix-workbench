@@ -525,3 +525,4 @@
 - Josie Everatt
 - René Salas
 - Amy Nguyen
+- Chris Taylor
